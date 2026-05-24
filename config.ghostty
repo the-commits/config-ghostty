@@ -1,0 +1,20 @@
+language = se
+font-family = "Hack"
+font-size = 13
+
+theme = Fun Forrest
+
+mouse-hide-while-typing = true
+quick-terminal-autohide = true
+
+custom-shader = ~/.config/ghostty/ghostty-shaders/in-game-crt-cursor.glsl
+custom-shader-animation = true
+
+background-opacity = 0.75
+window-vsync = true
+
+# Options: Boolean or number
+background-blur = true
+
+keybind = unconsumed:super+alt+r=reload_config
+
