@@ -18,3 +18,4 @@ background-blur = true
 
 keybind = unconsumed:super+alt+r=reload_config
 
+keybind = ctrl+enter=unbind
